@@ -1,0 +1,24 @@
+body {
+  background-color: gold;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-style: italic;
+  background-color: orange;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: purple;
+}
+
+
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+}
